@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Naz Karakaya
-- 👀 I’m interested in chess, music and volleyball.
+- 👀 I’m interested in chess and  music .
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me Katness619@gmail.com.
